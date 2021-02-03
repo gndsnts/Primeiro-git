@@ -23,6 +23,7 @@ namespace Prineiro
             Console.WriteLine(saldo.ToString("F4"));
             Console.WriteLine(saldo.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Teste");
+            Console.WriteLine("Teste");
         }
     }
 }
